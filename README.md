@@ -12,4 +12,4 @@ My solutions for OverTheWire Bandit, Natas, etc.
 Bandit Level 0 → 1  → [writeup](Bandit/level0-to-1.md)
 
 Level 0 ✓
-Level 1 → 2 [coming soon]
+Level 1 → 2 ✓
