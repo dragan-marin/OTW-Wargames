@@ -9,7 +9,17 @@ My solutions for OverTheWire Bandit, Natas, etc.
 **CCNA | CCNP | Ethical Hacking Student**
 
 ```zsh
-Bandit Level 0 → 1  → [writeup](Bandit/level0-to-1.md)
+## Bandit
+
+| Level | Status | Writeup |
+|-------|--------|---------|
+| 0 → 1 | Done | [view](Bandit/level0-to-1.md) |
+| 1 → 2 | Done | [view](Bandit/level1-to-2.md) |
+| 2 → 3 | Done | [view](Bandit/level2-to-3.md) |
+| 3 → 4 | Done | [view](Bandit/level3-to-4.md) |
+| 4 → 5 | Done | [view](Bandit/level4-to-5.md) |
+| 5 → 6 | Done | [view](Bandit/level5-to-6.md) |
+| 6 → 7 | Done | [view](Bandit/level6-to-7.md) |
 
 Level 0 ✓
 Level 1 → 2 ✓
