@@ -13,3 +13,6 @@ Bandit Level 0 → 1  → [writeup](Bandit/level0-to-1.md)
 
 Level 0 ✓
 Level 1 → 2 ✓
+Level 2 → 3 ✓
+Level 3 → 4 ✓
+Level 4 → 5 ✓
