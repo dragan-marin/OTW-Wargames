@@ -23,13 +23,5 @@ My solutions for OverTheWire Bandit, Natas, etc.
 | 7 → 8 | Done | [view](Bandit/level7-to-8.md) |
 | 8 → 9 | Done | [view](Bandit/level8-to-9.md) |
 | 9 → 10 | Done | [view](Bandit/level9-to-10.md) |
-Level 0 ✓
-Level 1 → 2 ✓
-Level 2 → 3 ✓
-Level 3 → 4 ✓
-Level 4 → 5 ✓
-Level 5 → 6 ✓
-Level 6 → 7 ✓
-Level 7 → 8 ✓
-Level 8 → 9 ✓
-Level 9 → 10 ✓
+| 10 → 11 | Done | [view](Bandit/level10-to-11.md) |
+
